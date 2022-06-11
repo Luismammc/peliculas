@@ -4,7 +4,7 @@
 body {
     background-image: url(https://img.freepik.com/foto-gratis/fondo-blanco-fondo-pantalla-textura-papel-arrugado-espacio-libre_33771-635.jpg);
     background-size: 150em;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family: Open Sans;
     margin: 0px;
 }
